@@ -1,0 +1,41 @@
+3. Voice AI Agent for Accessibility & Societal Impact
+Problem Statement
+A large portion of the global population faces barriers in accessing digital services due to literacy, language, or usability constraints.
+Challenge
+Create a voice-first AI agent using Vapi that improves accessibility and real-world usability in any domain of your choice (e.g., healthcare, education, public services, finance, etc.).
+Your solution may explore:
+Multilingual or low-literacy interactions
+
+
+Context-aware guidance or decision support
+
+
+Simplifying complex systems through conversation
+
+
+Bridging gaps between users and essential services
+
+
+Technical Direction
+Incorporate Qdrant to:
+Enable contextual understanding and retrieval
+
+
+Personalize interactions over time
+
+
+Support intelligent, adaptive responses
+
+
+Goal
+Demonstrate how voice AI can create meaningful societal impact, making technology more inclusive and accessible.
+
+
+Qdrant Resourses:
+Getting started with Qdrant
+Free Cloud tier you can use in Qdrant, alternatively you can store data in memory
+You must join the Qdrant Discord Channel and you can ask questions related to your project integration with Qdrant
+Vapi Resourses:
+Getting started with Vapi
+Free $30 credits to use per account: Use code - “vapixhackblr” to avail
+You must join the Vapi Discord Channel and you can ask questions related to your project integration with Vapi
