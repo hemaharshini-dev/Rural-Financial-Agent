@@ -11,11 +11,9 @@ app.use(express.json());
 
 const QDRANT_URL = process.env.QDRANT_URL;
 const QDRANT_API_KEY = process.env.QDRANT_API_KEY;
-const HF_API_KEY = process.env.HF_API_KEY;
 
 const COLLECTION = "financial-assistant";
 
-// 🔹 Convert text → embedding (HuggingFace)
 let extractor;
 
 async function getEmbedding(text) {
